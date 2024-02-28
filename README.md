@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DataEngineer
 - 👀 I’m interested in exploring the new technologies
-- 🌱 I’m currently learning Streaming|Kafka|Snowflake
+- 🌱 I’m currently learning ADF|Streaming|Kafka|Snowflake|PySpark
 
 
 <!---
